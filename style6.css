@@ -1,0 +1,31 @@
+body{
+	width:1440px;
+	height:1400px;
+}
+.center{
+	text-align: center;
+}
+h2{
+	margin-left:38px;
+	font: inter;
+}
+.p1{
+	margin-left:38px;
+	margin-right: 56px;
+}
+.p2{
+	margin-left: 39px;
+	margin-right: 56px;
+}
+.p3{
+	margin-left: 39px;
+	margin-right: 56px;
+}
+.p4{
+	margin-left: 38px;
+	margin-right: 75px;
+}
+.p5{
+	margin-left: 38px;
+	margin-right: 85px;
+}
